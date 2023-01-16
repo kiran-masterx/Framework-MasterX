@@ -1,0 +1,83 @@
+[INFO ] 2023-01-05 19:30:03.900 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:30:14.290 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:30:14.290 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:30:14.685 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:30:14.889 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:30:14.937 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:30:16.753 [main] HomePage - Clicking on companies icon
+[INFO ] 2023-01-05 19:30:48.771 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:30:56.934 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:30:56.936 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:30:57.071 [main] contactPageTestCases - LAUNCHING CREATE CONTACT TSET CASE
+[INFO ] 2023-01-05 19:30:57.261 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:30:57.349 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:30:57.393 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:30:59.034 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:30:59.147 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:30:59.147 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:31:06.160 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:31:13.311 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:31:13.312 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:31:13.447 [main] contactPageTestCases - VERIFYING CONTACT IS CREATED OR NOT
+[INFO ] 2023-01-05 19:31:13.560 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:31:13.636 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:31:13.683 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:31:15.230 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:31:15.233 [main] ContactsPage - Verifying the contact is created or not
+[INFO ] 2023-01-05 19:31:49.487 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:31:59.352 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:31:59.352 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:31:59.750 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:31:59.829 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:31:59.887 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:32:01.476 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:32:01.549 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:32:01.549 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:32:12.345 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:32:18.830 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:32:18.830 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:32:19.149 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:32:19.243 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:32:19.306 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:32:20.883 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:32:20.968 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:32:20.968 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:32:29.570 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:32:38.943 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:32:38.943 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:32:39.223 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:32:39.298 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:32:39.349 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:32:40.962 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:32:41.038 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:32:41.038 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:32:50.307 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:32:55.883 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:32:55.883 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:32:56.431 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:32:56.541 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:32:56.599 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:32:58.167 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:32:58.258 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:32:58.258 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:33:07.778 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:33:14.423 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:33:14.423 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:33:14.692 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:33:14.769 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:33:14.819 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:33:16.489 [main] HomePage - Clicking on contact icon
+[INFO ] 2023-01-05 19:33:16.566 [main] ContactsPage - Clicking on create button
+[INFO ] 2023-01-05 19:33:16.567 [main] ContactsPage - Creating a contact
+[INFO ] 2023-01-05 19:33:24.839 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:33:33.210 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:33:33.210 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:33:33.491 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:33:33.563 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:33:33.608 [main] LoginPage - Clicking on login button
+[INFO ] 2023-01-05 19:33:37.624 [main] BasePage - launching chrome driver
+[INFO ] 2023-01-05 19:33:43.712 [main] BasePage - Opening URLhttps://ui.cogmento.com/
+[WARN ] 2023-01-05 19:33:43.712 [main] BasePage - Opening URL
+[INFO ] 2023-01-05 19:33:43.987 [main] LoginPage - Passing username as: kiran.masterx@gmail.com
+[INFO ] 2023-01-05 19:33:44.069 [main] LoginPage - Passing password as: Test@123
+[INFO ] 2023-01-05 19:33:44.121 [main] LoginPage - Clicking on login button

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.FirstTestCase">
+        <methods>
+          <include name="verifyUserIsTestUser"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="setUp"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- testCases.FirstTestCase -->
+      <class name="testCases.CompaniesPageTestCases">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyCreatedCompanyDisplayed"/>
+          <include name="startReport"/>
+          <include name="setUp"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- testCases.CompaniesPageTestCases -->
+      <class name="testCases.contactPageTestCases">
+        <methods>
+          <include name="verifyContactCreated"/>
+          <include name="getResult"/>
+          <include name="startReport"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.contactPageTestCases -->
+      <class name="testCases.ExtentTestReport">
+        <methods>
+          <include name="test3"/>
+          <include name="getResult"/>
+          <include name="test2"/>
+          <include name="startReport"/>
+          <include name="test1"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.ExtentTestReport -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
