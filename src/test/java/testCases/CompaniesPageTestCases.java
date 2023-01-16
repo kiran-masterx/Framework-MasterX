@@ -42,6 +42,14 @@ public class CompaniesPageTestCases extends BasePage{
 		companiesPage.verifyCreatedCompanyDisplayedinList();
 	}
 	
+	@Test
+	public void verifySum() {
+		int a = 10;
+		int b = 20;
+		int c = 30;
+		assert a + b == c;
+	}
+	
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
